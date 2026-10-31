@@ -1,0 +1,26 @@
+# 构建产物
+build/
+app/build/
+.gradle/
+.kotlin/
+captures/
+*.apk
+*.aab
+*.idsig
+
+# 本机配置与本机工具产物
+local.properties
+tools/build/
+APK/
+design/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 系统
+.DS_Store
+Thumbs.db
+__pycache__/
+*.log

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="qc_bg">#F5F7F8</color>
+    <color name="qc_surface">#FFFFFF</color>
+    <color name="qc_primary">#0B9E70</color>
+</resources>

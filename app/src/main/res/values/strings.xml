@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">轻传</string>
+    <string name="app_tagline">局域网直传 · 不经云端</string>
+    <string name="channel_service_name">接收服务</string>
+    <string name="channel_service_desc">保持局域网接收服务在线，随时接收文件</string>
+    <string name="notif_service_title">轻传正在等待接收</string>
+    <string name="notif_service_text">点按返回应用</string>
+    <string name="notif_channel_transfer_name">传输进度</string>
+</resources>
